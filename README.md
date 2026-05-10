@@ -41,6 +41,9 @@ Integrated SMTP for voter codes and confirmations. Created email templates.
 
 **Key contributions:** `mailer/sender.py`, `mailer/templates/`
 
+### NEFISSI Mohamed Youcef - code reviewer
+Confirmed that the system work perfectly fine. created the final report
+
 ## How It Works (The Technical Version)
 
 Our voting protocol follows Chaum's blind signature scheme with some modifications for our use case. Here's the flow:
